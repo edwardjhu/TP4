@@ -1,7 +1,12 @@
 Empirical Experiments in "Feature Learning in Infinite-width Neural Networks"
 ========
 
-This repo contains code to replicate our experiments (Word2Vec, MAML) in the paper *Feature Learning in Infinite-Width Neural Networks*.
+This repo contains code to replicate our experiments (Word2Vec, MAML) in our paper
+
+[**Feature Learning in Infinite-Width Neural Networks**](https://arxiv.org/abs/2011.14522)<br>
+*Greg Yang, Edward Hu*
+
+In short, the code here will allow you to train feature learning infinite-width neural networks on Word2Vec and on Omniglot (via MAML).
 
 Our results on Word2Vec:
 
