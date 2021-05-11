@@ -1,0 +1,14 @@
+*.pyc
+__pycache__
+dataset/
+backup/
+.ipynb_checkpoints/
+*.log
+pt
+*.pkl
+*results*
+.vscode
+.ptignore
+.git.bak
+tests/
+run_tests.sh
